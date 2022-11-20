@@ -15,3 +15,4 @@ $('.btn').on('click', function(e){
     e.preventDefault();
     $(window).scrollTop(0);
 });
+
